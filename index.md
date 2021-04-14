@@ -2,15 +2,22 @@
 
 ## table of contents
 - Setup Developers Tools Dowload File pre-requisite
+  - Install and Download   
 - Apa itu API / Application Program Interface
-- C# / .Net Core
+  - Penngertian API
+  - Pengertian CRUD
+  - Membuat API dan CRUD Sederhana Dengan C# Asp.Net.Core Framework 
 - Database / basis data
+  - Basic database
+  - CRUD
 - Deployment
-- Docker / Conteiner
-- 
+  - Pengertian publish
+  - Docker / Conteiner
+- Cheatseat
 
 
 ### Pre-Requiste :
+- [Install Git](https://git-scm.com/download/win)
 - [Visual Studio 2019 Community](https://visualstudio.microsoft.com/downloads/)
 - [Visual-Studio-Code](https://code.visualstudio.com/)
 - [SQL Server 2019 Developer-Edition](https://go.microsoft.com/fwlink/?linkid=866662)
