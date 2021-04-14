@@ -1,5 +1,15 @@
 ## Welcome 
 
+## table of contents
+- Setup Developers Tools Dowload File pre-requisite
+- Apa itu API / Application Program Interface
+- C# / .Net Core
+- Database / basis data
+- Deployment
+- Docker / Conteiner
+- 
+
+
 ### Pre-Requiste :
 - [Visual Studio 2019 Community](https://visualstudio.microsoft.com/downloads/)
 - [Visual-Studio-Code](https://code.visualstudio.com/)
