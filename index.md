@@ -1,6 +1,10 @@
 ## Welcome 
 
 ### Pre-Requiste :
+- [Visual Studio 2019 Community](https://visualstudio.microsoft.com/downloads/)
+- [Visual-Studio-Code](https://code.visualstudio.com/)
+- [SQL Server 2019 Developer-Edition](https://go.microsoft.com/fwlink/?linkid=866662)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 ### Markdown
 
