@@ -117,7 +117,7 @@ select * from Article
 select * from Article where id = 1
 
 `#Update`
-Update Article Set Content = 'fast way to be a developers in nowaday's' WHERE id =1
+Update Article Set Content = 'fast way to be a developers in three months' WHERE id =1
 
 `#Delete`
 
