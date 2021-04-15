@@ -67,21 +67,20 @@ sederhana-nya github ada host atau tempat kita menyimpan source code / file kita
 [Database](https://www.gurupendidikan.co.id/pengertian-database/) ( basis data ) atau dengan sebutan pangkalan data ialah suatu kumpulan sebuah informasi yang disimpan didalam sebuah perangkat komputer secara sistematik sehingga dapat diperiksa dengan menggunakan suatu program komputer agar dapat informasi dari basis data tersebut.
 
 ```sql
-Create
 
+`#Create`
 Insert Into Article(id,Title,Content,Description)
 Values (1,'How To be a developers', 'fast way to be a developers','follow this step')
 
-Read
+`#Read`
 select * from Article
 
 select * from Article where id = 1
 
-Update
-
+`#Update`
 Update Article Set Content = 'fast way to be a developers in nowaday's'
 
-Delete
+`#Delete`
 Delete Article where id = 1
 
 ```
