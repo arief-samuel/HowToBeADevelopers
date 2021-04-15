@@ -78,35 +78,37 @@ sederhana-nya github ada host atau tempat kita menyimpan source code / file kita
 
 
 ### PROGRAMMING LANGUAGE
-To make computers do something, we have to feed them with precise instructions. This set of instructions is called “program”.
+Untuk membuat komputer melakukan sesuatu, kita harus memberi mereka makan dengan instruksi yang tepat. Serangkaian instruksi ini disebut "program". 
 
-Let’s take an example. Imagine a program that asks the user to type two numbers. The program adds those numbers, and the result is then displayed on the monitor. The instructions that have to be written are :
+Mari kita ambil contoh. Bayangkan sebuah program yang meminta pengguna untuk mengetikkan dua angka. Program menambahkan angka-angka tersebut, dan hasilnya kemudian ditampilkan di monitor. Instruksi yang harus ditulis adalah:
 
-Output “Please type your first number and press enter” on the monitor.
-When a number is typed and the “Enter” key is pressed on the keyboard, store the number into memory. Let’s denote AA this number.
-Output “Please type your second number and press enter” on the monitor.
-When a number is typed and the “Enter” key is pressed on the keyboard, store the number into memory. Let’s denote BB this number.
-Send to the ALU the two numbers (AA and BB) and the addition opcode and store the result into memory.
-Output the result on the monitor
-Two types of instructions are performed :
-I/O operations : retrieve numbers stored into memory, store numbers into memory from an the input device (the keyboard), load data from memory, and display it to the user.
-An arithmetic operation : add two numbers.
-We have here a set of instructions that are written in plain English. The machine does not understand English sentences. Those sentences need to be translated to a language that the machine understands. What is this language?
+Output "Silakan ketik nomor pertama Anda dan tekan enter" pada monitor.
+Saat nomor diketik dan tombol "Enter" ditekan pada keyboard, simpan nomor tersebut ke dalam memori. Mari kita nyatakan AA sebagai angka ini.
+Output "Silakan ketik nomor kedua Anda dan tekan enter" pada monitor.
+Saat nomor diketik dan tombol "Enter" ditekan pada keyboard, simpan nomor tersebut ke dalam memori. Mari kita nyatakan BB nomor ini.
+Kirim ke ALU dua angka (AA dan BB) dan opcode tambahan dan simpan hasilnya ke dalam memori.
+Keluarkan hasilnya di monitor
+Dua jenis instruksi dilakukan:
+Operasi I / O: mengambil nomor yang disimpan ke dalam memori, menyimpan nomor ke dalam memori dari perangkat input (keyboard), memuat data dari memori, dan menampilkannya kepada pengguna.
+Operasi aritmatika: tambahkan dua angka.
 
-×The paper and the digital edition of this book are available! More info here.
-How to speak to the machine? 
+Di sini kami memiliki seperangkat instruksi yang ditulis dalam bahasa Inggris biasa. 
+Mesin tidak memahami kalimat bahasa Inggris. Kalimat tersebut perlu diterjemahkan ke dalam bahasa yang dimengerti mesin. Bahasa apakah ini?
 
-Programming languages are formal languages 
-Instructions that are given to the machine are written with programming languages. Programming languages are formal languages.They are composed of words that are constructed from an alphabet (a set of distinct characters). Those words are organized following specific rules. Go is a programming language, like x86 Assembly, Java, C, C++, Javascript...
+Bagaimana cara berbicara dengan mesin?
 
-They are two types of programming languages :
-Low level
-High level
+Bahasa pemrograman adalah bahasa formal
+Instruksi yang diberikan ke mesin ditulis dengan bahasa pemrograman. Bahasa pemrograman adalah bahasa formal yang terdiri dari kata-kata yang dibangun dari alfabet (sekumpulan karakter berbeda). Kata-kata itu diatur mengikuti aturan khusus. Go adalah bahasa pemrograman, seperti x86 Assembly, Java, C, C ++, Javascript ...
 
-Low-level programming languages are closer to the processing unit’s instructions. Higher-level languages provide constructs that make them easier to learn and to use on a day-to-day basis.
+Mereka adalah dua jenis bahasa pemrograman:
+Level rendah
+Level tinggi
 
-Some high-level languages are compiled, others are interpreted, and some are in between. We will see in the next sections what those two terms mean.
+Bahasa pemrograman tingkat rendah lebih mirip dengan instruksi unit pemrosesan. Bahasa tingkat yang lebih tinggi menyediakan konstruksi yang membuatnya lebih mudah dipelajari dan digunakan sehari-hari.
 
+Beberapa bahasa tingkat tinggi dikompilasi, yang lain diinterpretasikan, dan beberapa di antaranya. Kita akan melihat di bagian selanjutnya apa arti kedua istilah tersebut.
+
+[source](https://www.practical-go-lessons.com/chap-1-programming-a-computer)
 
 ### API
 [API](https://www.niagahoster.co.id/blog/api-adalah/) atau Application Programming Interface adalah sebuah **interface** yang dapat menghubungkan aplikasi satu dengan aplikasi lainnya. Jadi, API berperan sebagai **perantara antar berbagai aplikasi berbeda**, baik dalam satu platform yang sama atau lintas platform.
