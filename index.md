@@ -71,15 +71,18 @@ Untuk membuat komputer melakukan sesuatu, kita harus memberi mereka makan dengan
 
 Mari kita ambil contoh. Bayangkan sebuah program yang meminta pengguna untuk mengetikkan dua angka. Program menambahkan angka-angka tersebut, dan hasilnya kemudian ditampilkan di monitor. Instruksi yang harus ditulis adalah:
 
-Output "Silakan ketik nomor pertama Anda dan tekan enter" pada monitor.
-Saat nomor diketik dan tombol "Enter" ditekan pada keyboard, simpan nomor tersebut ke dalam memori. Mari kita nyatakan AA sebagai angka ini.
-Output "Silakan ketik nomor kedua Anda dan tekan enter" pada monitor.
-Saat nomor diketik dan tombol "Enter" ditekan pada keyboard, simpan nomor tersebut ke dalam memori. Mari kita nyatakan BB nomor ini.
-Kirim ke ALU dua angka (AA dan BB) dan opcode tambahan dan simpan hasilnya ke dalam memori.
-Keluarkan hasilnya di monitor
+* Output "Silakan ketik nomor pertama Anda dan tekan enter" pada monitor.
+* Saat nomor diketik dan tombol "Enter" ditekan pada keyboard, simpan nomor tersebut ke dalam memori. Mari kita nyatakan AA sebagai angka ini.
+* Output "Silakan ketik nomor kedua Anda dan tekan enter" pada monitor.
+* Saat nomor diketik dan tombol "Enter" ditekan pada keyboard, simpan nomor tersebut ke dalam memori. Mari kita nyatakan BB nomor ini.
+* Kirim ke ALU dua angka (AA dan BB) dan opcode tambahan dan simpan hasilnya ke dalam memori.
+* Keluarkan hasilnya di monitor
+
 Dua jenis instruksi dilakukan:
-Operasi I / O: mengambil nomor yang disimpan ke dalam memori, menyimpan nomor ke dalam memori dari perangkat input (keyboard), memuat data dari memori, dan menampilkannya kepada pengguna.
-Operasi aritmatika: tambahkan dua angka.
+
+* Operasi I / O: mengambil nomor yang disimpan ke dalam memori, menyimpan nomor ke dalam memori dari perangkat input (keyboard), memuat data dari memori, dan menampilkannya kepada pengguna.
+
+* Operasi aritmatika: tambahkan dua angka.
 
 Di sini kami memiliki seperangkat instruksi yang ditulis dalam bahasa Inggris biasa. 
 Mesin tidak memahami kalimat bahasa Inggris. Kalimat tersebut perlu diterjemahkan ke dalam bahasa yang dimengerti mesin. Bahasa apakah ini?
