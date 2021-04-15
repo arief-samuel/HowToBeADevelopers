@@ -37,7 +37,7 @@ Fungsi utama git yaitu [mengatur versi dari source code program anda](https://id
 [yuk pahami git lebih lanjut](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
 
 ```git
-
+Command Line   
 Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
 Git status : untuk mengetahui status dari repository lokal
 Git add : menambahkan file baru pada repository yang dipilih
@@ -49,19 +49,20 @@ GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
 Git clone : membuat Salinan repository lokal
 
 ```
+
+
 [Membuat Account Github](https://github.com/join)
 
 Apa itu Gthub?
 sederhana-nya github ada host atau tempat kita menyimpan source code / file kita. 
+
 [github student](https://education.github.com/pack)
 
 ### API
+[API](https://www.niagahoster.co.id/blog/api-adalah/) atau Application Programming Interface adalah sebuah **interface** yang dapat menghubungkan aplikasi satu dengan aplikasi lainnya. Jadi, API berperan sebagai **perantara antar berbagai aplikasi berbeda**, baik dalam satu platform yang sama atau lintas platform.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arifsamuel/TestGHPages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Databbase
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arifsamuel/TestGHPages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### DATABASE
+[Database](https://www.gurupendidikan.co.id/pengertian-database/) ( basis data ) atau dengan sebutan pangkalan data ialah suatu kumpulan sebuah informasi yang disimpan didalam sebuah perangkat komputer secara sistematik sehingga dapat diperiksa dengan menggunakan suatu program komputer agar dapat informasi dari basis data tersebut.
 
 
 ### Support or Contact
