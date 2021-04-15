@@ -3,53 +3,66 @@
 ## table of contents
 - Setup Developers Tools Dowload File pre-requisite
   - Install and Download   
-- Apa itu API / Application Program Interface
+- [GIT](#git)
+  - Basic GIT
+  - Create  Github Account      
+- [Apa itu API / Application Program Interface](#api)
   - Penngertian API
   - Pengertian CRUD
   - Membuat API dan CRUD Sederhana Dengan C# Asp.Net.Core Framework 
-- Database / basis data
+- [Database / basis data](#database)
+  - Basic SQL Server
   - Basic database
   - CRUD
 - Deployment
   - Pengertian publish
   - Docker / Conteiner
+- Visual Studio and Visual Studio Code
 - Cheatseat
+- [MarkDown](#markdownn)
 
 
-### Pre-Requiste :
+### Setup Developers Tools Dowload File **pre-requisite** :
+Istallation  Tools, Please downnload and install the link below:
+
 - [Install Git](https://git-scm.com/download/win)
 - [Visual Studio 2019 Community](https://visualstudio.microsoft.com/downloads/)
 - [Visual-Studio-Code](https://code.visualstudio.com/)
 - [SQL Server 2019 Developer-Edition](https://go.microsoft.com/fwlink/?linkid=866662)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
-### Markdown
+### GIT
+[GIT merupakan sebuah komponen penting dalam dunia developers](https://idcloudhost.com/mengenal-apa-itu-git-serta-manfaat-dan-fiturnya-untuk-developer/)  
+Fungsi utama git yaitu [mengatur versi dari source code program anda](https://idcloudhost.com/pengertian-dan-manfaat-git-bagi-developer/) dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
+[yuk pahami git lebih lanjut](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```git
 
-```markdown
-Syntax highlighted code block
+Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
+Git status : untuk mengetahui status dari repository lokal
+Git add : menambahkan file baru pada repository yang dipilih
+Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+Git push : untuk mengirimkan perubahan file setelah di commit ke remote repository.
+Git branch : melihat seluruh branch yang ada pada repository
+Git checkout : menukar branch yang aktif dengan branchyang dipilih
+GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
+Git clone : membuat Salinan repository lokal
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+[Membuat Account Github](https://github.com/join)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Apa itu Gthub?
+sederhana-nya github ada host atau tempat kita menyimpan source code / file kita. 
+[github student](https://education.github.com/pack)
 
-### Jekyll Themes
+### API
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arifsamuel/TestGHPages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Databbase
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arifsamuel/TestGHPages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
