@@ -17,21 +17,10 @@
   - Basic SQL Server
   - Basic database
   - CRUD
-- Deployment
+- [Deployment](#deployment)
   - Pengertian publish
   - Docker / Conteiner
-  - Register Cloud
-    - [Azure](https://azure.microsoft.com/en-us/features/azure-portal/)
-    - [AWS](https://aws.amazon.com/free/?trk=ps_a134p000003yHpDAAU&trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_ID&sc_publisher=Google&sc_category=Core&sc_country=ID&sc_geo=APAC&sc_outcome=acq&sc_detail=aws%20free%20tier&sc_content=Account_e&sc_segment=444351556713&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|AWS|Core|ID|EN|Text&s_kwcid=AL!4422!3!444351556713!e!!g!!aws%20free%20tier&ef_id=Cj0KCQjwpdqDBhCSARIsAEUJ0hMtisTsB7Pl4b0yZvn6UmcuYQq3ihrd0oGEJ8C8dDag90Tk1HPxCXkaAlETEALw_wcB:G:s&s_kwcid=AL!4422!3!444351556713!e!!g!!aws%20free%20tier&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
-    - [Alibaba](https://account.alibabacloud.com/register/intl_register.htm?spm=a3c0i.259011.6791778070.53.7c224adfamca4V&oauth_callback=https%3A%2F%2Fid.alibabacloud.com%2F&)
-    - [GCP](https://console.cloud.google.com/freetrial?_ga=2.39226599.594441864.1618457512-406532934.1612620373&_gac=1.194518239.1618457512.Cj0KCQjwpdqDBhCSARIsAEUJ0hOrckAMxrzvxETgqAU-BZaE9hiIFP6asZCjtpj6myK2GAvSyzgWpbUaAqL0EALw_wcB)
-    - [ORACLE](https://www.oracle.com/cloud/free/)
-    - [OVH](https://www.ovh.com/asia/lp/public-cloud-trial/?xtor=SEC-13-GOO-[GG-LAB-ID-EN-SRC-OFF-GENERIC(Cloud-Services)]-[437013752568]-S-[%2Bcloud%20%2Bfree]&xts=563736&sitelink=&gclid=Cj0KCQjwpdqDBhCSARIsAEUJ0hOgCzzG8WHkEhMHRUXbFDCKuVjGvSFNk2m4e048VCsaiHVeOgTk4fEaAnRNEALw_wcB)
-    - [Vultr](https://www.vultr.com/)
-    - [DigitalOcean](https://www.digitalocean.com/)
-    - [Heroku](https://www.heroku.com/)
-    - [Netlify](https://www.netlify.com/)
-    - [Vercel](https://vercel.com/)
+  
 
 - Visual Studio and Visual Studio Code
 - Cheatseat
@@ -134,6 +123,21 @@ Update Article Set Content = 'fast way to be a developers in nowaday's'
 Delete Article where id = 1
 
 ```
+
+### Deployment
+- Register Cloud
+    - [Azure](https://azure.microsoft.com/en-us/features/azure-portal/)
+    - [AWS](https://aws.amazon.com/free/)
+    - [Alibaba](https://account.alibabacloud.com/register/)
+    - [GCP](https://console.cloud.google.com/)
+    - [ORACLE](https://www.oracle.com/cloud/free/)
+    - [OVH](https://www.ovh.com/asia/)
+    - [Vultr](https://www.vultr.com/)
+    - [DigitalOcean](https://www.digitalocean.com/)
+    - [Heroku](https://www.heroku.com/)
+    - [Netlify](https://www.netlify.com/)
+    - [Vercel](https://vercel.com/)
+
 
 
 ### Support or Contact
