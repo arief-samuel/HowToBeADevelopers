@@ -120,7 +120,7 @@ select * from Article where id = 1
 Update Article Set Content = 'fast way to be a developers in nowaday's'
 
 `#Delete`
-Delete Article where id = 1
+Delete From Article where id = 1
 
 ```
 
