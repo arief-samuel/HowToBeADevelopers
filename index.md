@@ -1,7 +1,7 @@
 ## Welcome 
 
 ## table of contents
-- Setup Developers Tools Dowload File pre-requisite
+- [Setup Developers Tools Dowload File pre-requisite](#Pre-Requisite)
   - Install and Download   
 - [GIT](#git)
   - Basic GIT
@@ -22,8 +22,9 @@
 - [MarkDown](#markdownn)
 
 
-### Pre-Requisite :
-Setup Developers Tools Dowload File **pre-requisite**
+### Pre-Requisite
+Setup Developers Tools Dowload File **pre-requisite**.
+
 Istallation  Tools, Please downnload and install the link below:
 
 - [Install Git](https://git-scm.com/download/win)
